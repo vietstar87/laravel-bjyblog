@@ -5,7 +5,6 @@ declare(strict_types=1);
 namespace App\Http\Controllers\Home;
 
 use App;
-use App\Http\Controllers\Controller;
 use App\Models\Article;
 
 class FeedController extends Controller
